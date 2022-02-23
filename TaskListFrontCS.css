@@ -1,0 +1,47 @@
+.block1 h2{
+    text-align: center;
+    margin: 1px;
+    float:center;
+
+    
+
+}
+
+
+.Tasks1{
+    margin:20px;
+    border: red 10px solid;
+    width: 500px;
+    height:400px;
+    text-align: center;
+    float:left;
+    }
+
+
+.Tasks2{
+    margin:20px;
+    border: orange 10px solid;
+    width: 500px;
+    height:400px;
+    text-align: center;
+    float:left;
+    }
+
+
+.Tasks3{
+    margin:20px;
+    border: yellow 10px solid;
+    width: 500px;
+    height:400px;
+    text-align: center;
+    float:left;
+    }
+
+.Tasks4{
+    margin:20px;
+    border: green 10px solid;
+    width: 500px;
+    height:400px;
+    text-align: center;
+    float:left;
+    }
